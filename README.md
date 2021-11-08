@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=C8FAC8&height=100&section=header&text=✨%20Hello,%20I'm%20Junghun%20Lee%20✨&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=soft&color=C8FAC8&height=100&section=header&text=✨%20Until%20what%20I%20like%20becomes%20what%20I'm%20good%20at%20✨&fontSize=30)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellowoov&show_icons=true&theme=gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yellowoov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -10,7 +10,8 @@
   💻 I'm a student majoring in software in the Department of Software at Kookmin University.
 
   📈 I'm interested in data analysis.  
-  🤖 I'm interested in machine learing.
+  🤖 I'm interested in machine learing.  
+  
 </div>
 
 <h2>My Tech Stack  📝</h2>

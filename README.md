@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=AAEBAA&height=150&section=header&text=✨%20Hello,%20I'm%20Junghun%20Lee%20✨&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=soft&color=C8FAC8&height=100&section=header&text=✨%20Hello,%20I'm%20Junghun%20Lee%20✨&fontSize=40)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellowoov&show_icons=true&theme=gradient)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yellowoov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

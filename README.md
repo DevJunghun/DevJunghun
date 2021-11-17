@@ -10,7 +10,7 @@
   💻 I'm a student majoring in software in the Department of Software at Kookmin University.
 
   📈 I'm interested in data analysis.  
-  🤖 I'm interested in deep learing.  
+  🤖 I'm interested in deep learning.  
   
 </div>
 

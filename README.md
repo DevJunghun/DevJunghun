@@ -7,7 +7,7 @@
 
 <h2> ABOUT ME  👀 </h2>
 <div>
-  💻 I'm a student majoring in software in the Department of Software at Kookmin University.
+  💻 I graduated from the College of Computer Science at Kookmin University.
 
   📃 I'm interested in Natural Language Processing.  
   🤖 I'm interested in Machine Learning.  
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> 
 <h2>Contact  📫</h2>
 <div>
-  <a href="mailto:yellowoov@kookmin.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:dev.junghun@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/yellowoov" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 </div>
   

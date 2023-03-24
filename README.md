@@ -21,27 +21,10 @@
   **👌  Techs that I've used at least once** 
 </div>
 
-
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"> 
-</div>    
-
-<br>
-<div>
-
-  **📌  Techs that I want to use**  
-  ( If I'm interested in technology, add it. )
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> 
-<h2>Contact  📫</h2>
-<div>
-  <a href="mailto:dev.junghun@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/yellowoov" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-</div>
-  
+- Language : Python, C++, Java, HTML, CSS, JavaScript, SQL
+- Framework : Tensorflow, Pytorch, Numpy, Pandas, Scikit-Learn, NLP Frameworks
+- Database : Firebase Realtime Database, MySQL, MongoDB
+- OS : Windows, Ubuntu, macOS
+- Collaboration : Slack, Git, Notion
+- Tool : VS Code, PyCharm, vim
+- Cloud : GCP

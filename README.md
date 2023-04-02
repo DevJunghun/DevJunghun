@@ -23,7 +23,7 @@
 
 - Language : Python, C++, Java, HTML, CSS, JavaScript, SQL
 - Framework : Tensorflow, Pytorch, Numpy, Pandas, Scikit-Learn, NLP Frameworks
-- Database : Firebase Realtime Database, MySQL, MongoDB
+- Database : Firebase, MySQL, MongoDB
 - OS : Windows, Ubuntu, macOS
 - Collaboration : Slack, Git, Notion
 - Tool : VS Code, PyCharm, vim

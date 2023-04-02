@@ -1,10 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=C8FAC8&height=100&section=header&text=✨%20Until%20what%20I%20like%20becomes%20what%20I'm%20good%20at%20✨&fontSize=30)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJunghun&show_icons=true&theme=gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJunghun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <h2> ABOUT ME  👀 </h2>
 <div>
   💻 I graduated from the College of Computer Science at Kookmin University.

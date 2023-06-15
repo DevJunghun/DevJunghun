@@ -15,7 +15,7 @@
 </div>
 
 - Language : Python, C++, Java, HTML, CSS, JavaScript, SQL
-- Framework : Tensorflow, Pytorch, OpenCV, Numpy, Pandas, Scikit-Learn, NLP Frameworks
+- Framework : Tensorflow, Pytorch, FastAPI, OpenCV, Numpy, Pandas, Scikit-Learn, NLP Frameworks
 - Database : Firebase Realtime Database, Cloud Firestore, MySQL, MongoDB
 - OS : Windows, Ubuntu, macOS
 - Collaboration : Slack, Git, Notion

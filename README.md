@@ -1,4 +1,4 @@
-<h2> ABOUT ME  👀 </h2>
+<h2> About Me  👀 </h2>
 <div>
   💻 I graduated from the College of Computer Science at Kookmin University.
 
@@ -26,6 +26,7 @@
 
 <div>
   
-[EMAIL](mailto:dev.junghun@gmail.com)  
+E-mail: dev.junghun@gmail.com  
+Instagram: [dev.junghun](https://www.instagram.com/dev.junghun/)
   
 </div>

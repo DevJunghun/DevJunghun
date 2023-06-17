@@ -21,3 +21,11 @@
 - Collaboration : Slack, Git, Notion
 - Tool : VS Code, PyCharm, vim, Android Studio
 - Cloud : GCP
+
+<h2>Contact Me 📮</h2>
+
+<div>
+  
+[EMAIL](mailto:dev.junghun@gmail.com)  
+  
+</div>

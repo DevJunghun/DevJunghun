@@ -20,7 +20,7 @@
 - OS : Windows, Ubuntu, macOS
 - Collaboration : Slack, Git, Notion
 - Tool : VS Code, PyCharm, vim, Android Studio
-- Cloud : GCP
+- Cloud : GCP, Vast
 
 <h2>Contact Me 📮</h2>
 

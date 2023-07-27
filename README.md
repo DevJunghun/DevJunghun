@@ -2,7 +2,8 @@
 <div>
   💻 I graduated from the College of Computer Science at Kookmin University.
 
-  📃 I'm interested in Natural Language Processing.  
+  📈 I'm interested in Data Analysis.  
+  📃 I'm interested in Natural Language Processing **(Text Classification, Language Model)**.  
   🤖 I'm interested in Machine Learning.  
   
 </div>

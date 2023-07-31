@@ -15,13 +15,13 @@
   **👌  Techs that I've used at least once** 
 </div>
 
-- Language : Python, C++, Java, HTML, CSS, JavaScript, SQL
-- Framework : Tensorflow, Pytorch, FastAPI, OpenCV, Numpy, Pandas, Scikit-Learn, NLP Frameworks
-- Database : Firebase Realtime Database, Cloud Firestore, MySQL, MSSQL, MongoDB
-- OS : Windows, Ubuntu, macOS
-- Collaboration : Slack, Git, Notion
-- Tool : VS Code, PyCharm, vim, Android Studio
-- Cloud : GCP, Vast
+- Language: Python, C++, Java, HTML, CSS, JavaScript, SQL
+- Framework: Tensorflow, Pytorch, FastAPI, OpenCV, Numpy, Pandas, Scikit-Learn, NLP Frameworks
+- Database: Firebase Realtime Database, Cloud Firestore, MySQL, MSSQL, MongoDB
+- OS: Windows, Ubuntu, macOS
+- Collaboration: Slack, Git, Notion
+- Tool: VS Code, PyCharm, vim, Android Studio
+- Cloud: GCP, Vast
 
 <h2>Contact Me 📮</h2>
 

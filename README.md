@@ -4,7 +4,7 @@
 
   📈 I'm interested in Data Analysis.  
   📃 I'm interested in Natural Language Processing. **(Text Classification, Language Model)**  
-  🤖 I'm interested in Machine Learning.  
+  🤖 I'm interested in Generative AI.
   
 </div>
 

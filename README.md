@@ -21,7 +21,7 @@
 - OS: Windows, Ubuntu, macOS
 - Collaboration: Slack, Git, Notion, Discord
 - Tool: VS Code, PyCharm, vim, Android Studio
-- Cloud: GCP, Vast
+- Cloud: AWS EC2, GCP, Vast
 - Etc: HuggingFace, LangChain
 
 <h2>Contact Me 📮</h2>

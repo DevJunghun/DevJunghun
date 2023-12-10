@@ -15,13 +15,13 @@
   **👌  Techs that I've used at least once** 
 </div>
 
-- Language: Python, C++, Java, HTML, CSS, JavaScript, SQL
+- Language: Python, C++, SQL
 - Framework: Tensorflow, Pytorch, FastAPI, OpenCV, Numpy, Pandas, Scikit-Learn, NLP Frameworks
-- Database: Firebase Realtime Database, Cloud Firestore, MySQL, MSSQL, MongoDB
+- Database: Firebase Realtime Database, Cloud Firestore, MySQL, PostgreSQL, MongoDB
 - OS: Windows, Ubuntu, macOS
 - Collaboration: Slack, Git, Notion, Discord
 - Tool: VS Code, PyCharm, vim, Android Studio
-- Cloud: AWS EC2, GCP, Vast
+- Cloud: AWS, GCP, Vast
 - Etc: HuggingFace, LangChain
 
 <h2>Contact Me 📮</h2>

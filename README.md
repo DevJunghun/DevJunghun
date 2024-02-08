@@ -15,7 +15,7 @@
   **👌  Techs that I've used at least once** 
 </div>
 
-- Language: Python, C++, SQL
+- Language: Python, C++, SQL, Dart
 - Framework: Tensorflow, Pytorch, FastAPI, OpenCV, Numpy, Pandas, Scikit-Learn, NLP Frameworks
 - Database: Firebase Realtime Database, Cloud Firestore, MySQL, PostgreSQL, MongoDB
 - OS: Windows, Ubuntu, macOS

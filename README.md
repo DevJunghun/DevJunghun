@@ -29,6 +29,6 @@
 <div>
   
 E-mail: dev.junghun@gmail.com  
-Instagram: [dev.junghun](https://www.instagram.com/dev.junghun/)
+Instagram: [junghun.me](https://www.instagram.com/junghun.me/)
   
 </div>
